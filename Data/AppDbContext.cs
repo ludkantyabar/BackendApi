@@ -11,7 +11,7 @@ namespace BackendApi.Data
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         //cambiar nombre de mi servidor
-        optionsBuilder.UseSqlServer("server=LUDKANT\\SQLEXPRESS;Initial Catalog=ProductDb;Trusted_Connection=True;TrustServerCertificate=True;");
+        optionsBuilder.UseSqlServer("server=LUDKANT;Initial Catalog=ProductDb;Trusted_Connection=True;TrustServerCertificate=True;");
     }        
     }
 }
