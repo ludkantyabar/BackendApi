@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SEA4YqbRCcQ=",
+  "dgSpecHash": "lNajFpk4LUk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luffy\\OneDrive - Universidad Tecnologica del Peru\\javascript\\BACKEND\\BackendApi\\BackendApi.csproj",
+  "projectFilePath": "D:\\Github\\JavaScript\\semana9\\BackendApi\\BackendApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luffy\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

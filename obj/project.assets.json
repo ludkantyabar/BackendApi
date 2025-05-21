@@ -5166,11 +5166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luffy\\OneDrive - Universidad Tecnologica del Peru\\javascript\\BACKEND\\BackendApi\\BackendApi.csproj",
+      "projectUniqueName": "D:\\Github\\JavaScript\\semana9\\BackendApi\\BackendApi.csproj",
       "projectName": "BackendApi",
-      "projectPath": "C:\\Users\\Luffy\\OneDrive - Universidad Tecnologica del Peru\\javascript\\BACKEND\\BackendApi\\BackendApi.csproj",
+      "projectPath": "D:\\Github\\JavaScript\\semana9\\BackendApi\\BackendApi.csproj",
       "packagesPath": "C:\\Users\\Luffy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luffy\\OneDrive - Universidad Tecnologica del Peru\\javascript\\BACKEND\\BackendApi\\obj\\",
+      "outputPath": "D:\\Github\\JavaScript\\semana9\\BackendApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luffy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5181,7 +5181,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
